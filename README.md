@@ -1,4 +1,4 @@
-<img src="./assets/images/welcome.png" width="590px"/>
+<img src="./assets/images/welcome-to-my-profile.png" width="590px"/>
 
 <h2>Hello<img src="./assets/images/hi.gif" width="25px" />, my name is Edson Jorge. Nice to meet you 😉.</h2>
 
