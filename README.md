@@ -1,6 +1,6 @@
-<img src="./assets/images/welcome.png" />
+<img src="./assets/images/welcome.png" width="590px"/>
 
-<h2>Hello<img src="./assets/images/hi.gif" width="25px"></img>, my name is Edson Jorge. Nice to meet you 😉.</h2>
+<h2>Hello<img src="./assets/images/hi.gif" width="25px" />, my name is Edson Jorge. Nice to meet you 😉.</h2>
 
 I'm from Brazil and I'm currently focused on programming. I'm a front-end developer, but I'm studying hard to be a Full Stack. 👨‍💻
 
